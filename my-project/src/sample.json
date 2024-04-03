@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Joe Wallace, James Willhite, Karen Langley, Yusuf Khan, Chelsey Dulaney, Caitlin Ostroff",
+            "title": "Stock Market Today: Stock Futures Edge Down - The Wall Street Journal",
+            "description": "The Wall Street Journal’s full markets coverage.",
+            "url": "https://www.wsj.com/livecoverage/stock-market-news-today-09-07-2022",
+            "urlToImage": "https://images.wsj.net/im-617541/social",
+            "publishedAt": "2022-09-07T12:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Antonio Olivo",
+            "title": "From border town to 'border town,' bused migrants seek new lives in D.C. area - The Washington Post",
+            "description": "For many of the migrants who have accepted the rides, any political gamesmanship has been irrelevant. The buses have turned into a welcomed way to get to their final destinations.",
+            "url": "https://www.washingtonpost.com/dc-md-va/2022/09/07/migrants-dc-buses-texas/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7URMG2BFLEI63JZPDZYUSBZPXQ.jpg&w=1440",
+            "publishedAt": "2022-09-07T12:13:52Z",
+            "content": "Comment on this story\r\nDEL RIO, Tex. They marched in caravans for weeks, past dead bodies while dodging kidnappers and thieves and now, some of the migrants crowded inside a tiny stucco building just… [+15754 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Issy Ronald, CNN",
+            "title": "Nick Kyrgios 'devastated' after quarterfinal defeat to Karen Khachanov as he destroys two rackets on court - CNN",
+            "description": "This US Open seemed like a golden opportunity for Nick Kyrgios to win his first-ever grand slam.",
+            "url": "https://www.cnn.com/2022/09/07/tennis/nick-kyrgios-karen-khachanov-us-open-quarterfinal-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220907044215-01-nick-kyrgios-karen-khachanov-quarterfinal-us-open-spt-intl-super-tease.jpg",
+            "publishedAt": "2022-09-07T11:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Simone McCarthy",
+            "title": "Putin claims Russia has 'lost nothing' over actions in Ukraine, as country looks East for economic assistance - CNN",
+            "description": "Russian President Vladimir Putin said on Wednesday that Russia had not lost anything as a result of its ongoing military actions in Ukraine.",
+            "url": "https://www.cnn.com/2022/09/06/china/li-zhanshu-vladimir-putin-china-russia-high-level-meeting-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220907104401-04-russia-ukraine-grain-putin-super-tease.jpg",
+            "publishedAt": "2022-09-07T10:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi, CNN",
+            "title": "How the 4-day search for a Memphis schoolteacher killed in a violent abduction led investigators to find her body - CNN",
+            "description": "Shortly after investigators in Memphis, Tennessee, found a body Monday that was later identified as missing schoolteacher Eliza \"Liza\" Fletcher, they discovered a pair of purple running shorts discarded in a trash bag nearby, officials said in a newly release…",
+            "url": "https://www.cnn.com/2022/09/07/us/memphis-teacher-eliza-fletcher-killed-wednesday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220907012005-02-memphis-teacher-eliza-fletcher-killed-wednesday-super-tease.jpg",
+            "publishedAt": "2022-09-07T10:24:00Z",
+            "content": "(CNN)Shortly after investigators in Memphis, Tennessee, found a body Monday that was later identified as missing schoolteacher Eliza \"Liza\" Fletcher, they discovered a pair of purple running shorts d… [+4930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Deutsche Bank CEO warns recession is inevitable, says Germany must cut reliance on China - CNBC",
+            "description": "Deutsche Bank CEO Christian Sewing has warned that a recession in Germany is inevitable, and urged the country's leaders to accelerate its decoupling from China.",
+            "url": "https://www.cnbc.com/2022/09/07/deutsche-bank-ceo-warns-of-recession-says-germany-must-cut-china-reliance.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106351008-1579779062182rts2zis3.jpg?v=1662536695&w=1920&h=1080",
+            "publishedAt": "2022-09-07T09:22:16Z",
+            "content": "Deutsche Bank CEO Christian Sewing warned Wednesday that a recession in Germany is inevitable, and urged the country's leaders to accelerate its decoupling from China.\r\nIn a speech at the Handelsblat… [+2380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Tammy Robert",
+            "title": "Myles Sanderson Made Final 'Goodbye Trip' After Saskatchewan Stabbing Rampage, Sources Say - The Daily Beast",
+            "description": "Sources told The Daily Beast that Myles Sanderson, a suspect in the stabbing spree that killed 11, made a trip to say goodbye to loved ones “for the last time” after the attacks.",
+            "url": "https://www.thedailybeast.com/myles-sanderson-made-final-goodbye-trip-after-saskatchewan-stabbing-rampage-sources-say",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1662529144/220906-saskatchewan-murders-hero_huvdwd",
+            "publishedAt": "2022-09-07T08:52:40Z",
+            "content": "Multiple sources close to the ongoing manhunt for Myles Sanderson, the second suspect in the stabbing rampage that killed 11 people in the Canadian province of Saskatchewan on Sunday, say he made a f… [+3638 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Donald Trump has at least 19 different attorneys dealing with 8 investigations. - POLITICO",
+            "description": "The various legal problems have created the need for a lot of legal help.",
+            "url": "https://www.politico.com/news/2022/09/07/donald-trump-has-at-least-19-different-attorneys-00055084",
+            "urlToImage": "https://static.politico.com/d3/22/f46119cf43e49f5266be69f776ed/election-2022-trump-76129.jpg",
+            "publishedAt": "2022-09-07T08:30:00Z",
+            "content": "Some of Trumps former attorneys have accused him of not fully paying them for their services. Its not clear what all his current attorneys will cost, though the tab for some of the legal battles has … [+10414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Doomsday Glacier “Holding On by Its Fingernails” – Spine-Chilling Retreat Could Raise Sea Levels by 10 Feet - SciTechDaily",
+            "description": "Faster in the Past: New seafloor images – the highest resolution of any taken off the West Antarctic Ice Sheet – upend understanding of Thwaites Glacier retreat. At times in its past, the retreat of the massive Thwaites Glacier was even quicker than it is tod…",
+            "url": "https://scitechdaily.com/doomsday-glacier-holding-on-by-its-fingernails-spine-chilling-retreat-could-raise-sea-levels-by-10-feet/",
+            "urlToImage": "https://scitechdaily.com/images/Thwaites-Glacier-Nathaniel-B-Palmer-scaled.jpg",
+            "publishedAt": "2022-09-07T08:27:17Z",
+            "content": "ByUniversity of South FloridaSeptember 7, 2022\r\nThe R/V Nathaniel B. Palmer photographed from a drone at Thwaites Glacier ice front in February 2019. Credit: Alexandra Mazur/University of Gothenburg\r… [+8033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Bam Margera Spotted at Bar After Leaving Rehab, Cuts Communication with Parents - TMZ",
+            "description": "Bam Margera bounced early from substance abuse treatment and hit up a tavern ... and he's no longer speaking to his parents.",
+            "url": "https://www.tmz.com/2022/09/07/bam-margera-bar-leaving-rehab-stops-communicating-parents/",
+            "urlToImage": "https://imagez.tmz.com/image/d4/16by9/2022/09/06/d4f9c5c98d224dbcae6e4774eed276bd_xl.jpg",
+            "publishedAt": "2022-09-07T08:00:00Z",
+            "content": "Bam Margerabounced early from substance abuse treatment and hit up a tavern ... and he's no longer speaking to his parents.\r\nTMZ obtained video showing Bam leaving a bar in Florida with a mystery wom… [+1149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Ukraine backs UN call for Zaporizhzhia nuclear plant safe zone - BBC News - BBC News",
+            "description": "Ukrainian President Volodymyr Zelensky has backed calls by the UN for a safety protection zone at the Zaporizhzhia nuclear power plant.The plant has been occ...",
+            "url": "https://www.youtube.com/watch?v=kIU9oB6wvC0",
+            "urlToImage": "https://i.ytimg.com/vi/kIU9oB6wvC0/hqdefault.jpg",
+            "publishedAt": "2022-09-07T07:57:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Liz Truss's cabinet is Britain's first without white man in top jobs - Reuters UK",
+            "description": "The new British Prime Minister Liz Truss has selected a cabinet where for the first time a white man will not hold one of the country's four most important ministerial positions.",
+            "url": "https://www.reuters.com/world/uk/liz-trusss-cabinet-is-britains-first-without-white-man-top-jobs-2022-09-06/",
+            "urlToImage": "https://www.reuters.com/resizer/AzvHBVNymCWIVuLf4LPPoKjid28=/1012x530/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X4HMWBH4VZF7VJ246QGFYKNOZQ.png",
+            "publishedAt": "2022-09-07T07:11:00Z",
+            "content": "LONDON, Sept 6 (Reuters) - The new British Prime Minister Liz Truss has selected a cabinet where for the first time a white man will not hold one of the country's four most important ministerial posi… [+4162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Claire Jackson",
+            "title": "This New Soulslike Proves Easy Mode Isn't Just Possible, It Makes Everything Better - Kotaku",
+            "description": "Steelrising falls short of other titans of the genre, but it proves difficulty options don’t act against the very premise of harsh challenges",
+            "url": "https://kotaku.com/steelrising-spiders-soulslike-dark-souls-elden-ring-1849487023",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/abde3a0c9314f92b9bbbb1ea594147d5.jpg",
+            "publishedAt": "2022-09-07T07:00:00Z",
+            "content": "The opening moments of Steelrising felt surprisingly doable and fun for a soulslike, a genre of game that often starts out with tough challenges and a go figure it out kinda vibe. But once I hit the … [+5906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "As mortgage rates climb, loan demand, refinancing drops - Fox Business",
+            "description": "The housing industry is seeing the effects that higher mortgage rates are having. The average rate on the 30-year fixed mortgage is 5.66% this week, up from 5.55%.",
+            "url": "https://www.foxbusiness.com/economy/mortgage-rates-climb-loan-demand-refinancing-drops",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/04/0/0/iStock-177735411.jpg?ve=1&tl=1",
+            "publishedAt": "2022-09-07T06:12:15Z",
+            "content": "Rising interest rates continue to impact areas of the housing industry.\r\nIn the past week, mortgage rates increased to 5.66% from 5.55%.\r\nOverall demand for mortgage applications fell by 0.8%, accord… [+2076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile",
+            "title": "September 2022 security update rolling out to Galaxy S20 FE 5G in Europe - SamMobile - Samsung news",
+            "description": "After the Galaxy S21 series, Samsung has chosen the Galaxy S20 FE 5G to get the September 2022 security update. ...",
+            "url": "https://www.sammobile.com/news/galaxy-s20-fe-5g-september-2022-security-update-europe/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2020/10/Galaxy-S20-FE-review-2-720x405.jpg",
+            "publishedAt": "2022-09-07T05:09:00Z",
+            "content": "After the Galaxy S21 series, Samsung has chosen the Galaxy S20 FE 5G to get the September 2022 security update. The popular, affordable high-end smartphone is now getting a new security patch in vari… [+1238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Rebecca Rubin",
+            "title": "Six Standing Ovations Later, Lea Michele Triumphantly Returns to Broadway in ‘Funny Girl’ - Variety",
+            "description": "Popular on Variety It appears the weather gods didn’t heed Fanny Brice’s humble request. But not even a dreary, drizzly Tuesday in Manhattan could rain on Lea Michele’s parade as the former “Glee” star made her long-anticipated debut in Broadway’s “Funny Girl…",
+            "url": "https://variety.com/2022/legit/news/funny-girl-lea-michele-opening-night-broadway-1235361336/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/09/lea.jpg?w=1024",
+            "publishedAt": "2022-09-07T04:15:00Z",
+            "content": "It appears the weather gods didn’t heed Fanny Brice’s humble request.\r\nBut not even a dreary, drizzly Tuesday in Manhattan could rain on Lea Michele’s parade as the former “Glee” star made her long-a… [+4782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Abner Li",
+            "title": "On the wrist: Here’s Sundar Pichai wearing the Pixel Watch [Gallery] - 9to5Google",
+            "description": "Sundar Pichai talked with Kara Swisher at the 2022 Code Conference, with the Alphabet and Google CEO was seen wearing the Pixel Watch...",
+            "url": "https://9to5google.com/2022/09/06/pixel-watch-sundar-pichai/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/09/pixel-watch-sundar-pichai-cover.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-09-07T04:01:00Z",
+            "content": "Sundar Pichai talked with Kara Swisher at the 2022 Code Conference this evening in a wide-ranging interview that spanned productivity, competition, and M&amp;A, while the Alphabet and Google CEO was … [+2458 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Azmi Haroun, Cheryl Teh",
+            "title": "New video: Fake Trump elector lets poll deniers into Georgia office - Business Insider",
+            "description": "In the video, Cathy Latham, a Georgia GOP official, was seen letting operatives, including Cyber Ninjas CEO Doug Logan, into the Coffee County office.",
+            "url": "https://www.businessinsider.com/video-fake-trump-elector-letting-election-deniers-georgia-county-office-2022-9",
+            "urlToImage": "https://i.insider.com/6318025b5c870800189ee4e8?width=1200&format=jpeg",
+            "publishedAt": "2022-09-07T03:20:23Z",
+            "content": "A newly sourced video shows a fake Trump elector in Georgia letting data extraction experts associated with Donald Trump into an elections office on the day that the office's voting systems were brea… [+2789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Thomas Neumann",
+            "title": "Reporter Claps Back at Snarky Comment by LSU Coach Brian Kelly - Sports Illustrated",
+            "description": "The Tigers football coach teased a tardy media member at Monday’s press conference, but she retorted with equal energy.",
+            "url": "https://www.si.com/extra-mustard/2022/09/07/reporter-claps-back-snarky-comment-lsu-coach-brian-kelly",
+            "urlToImage": "https://www.si.com/.image/t_share/MTkwNTI1MTg4OTQ3ODQ2Mzkz/brian-kelly.png",
+            "publishedAt": "2022-09-07T02:46:28Z",
+            "content": "LSU football coach Brian Kelly is off to a rough start at his new gig.\r\nThe Tigers’ $95 million man suffered a gut-wrenching, 24–23 defeat to Florida State in New Orleans on Sunday night, which was u… [+1608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Sam Barsanti",
+            "title": "R.I.P. novelist Peter Straub - The A.V. Club",
+            "description": "The horror writer behind Ghost Story and Julia, and who co-wrote The Talisman with Stephen King, has died",
+            "url": "https://www.avclub.com/r-i-p-novelist-peter-straub-1849503798",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f226a8734fe772e55bcdce2e5187fc83.jpg",
+            "publishedAt": "2022-09-07T02:13:00Z",
+            "content": "Peter Straub, a novelist whose depiction of the supernatural in books like Julia, Ghost Story, and The Talisman often felt too big and too fantastical to really be defined by the limits of the horror… [+3405 chars]"
+        }
+    ]
+}
