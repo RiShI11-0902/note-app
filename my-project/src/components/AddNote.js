@@ -2,18 +2,12 @@ import React, { useState } from "react";
 
 export default function AddNote({ handleAddNote }) {
   const [noteText, setNoteText] = useState("");
-  // const [category, setCategory] = useState("")
   const characterLimit = 200;
 
   const handleChange = (event) => {
     if (characterLimit - event.target.value.length >= 0) {
       setNoteText(event.target.value);
-      // setCategory(event.target.value)
     }
-    // setNoteText(event.target.value)
-
-    // console.log();
-    // addnote(noteText)
   };
 
   const handleSaveClick = (event) => {

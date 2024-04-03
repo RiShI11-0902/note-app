@@ -32,12 +32,6 @@ function App() {
     setNotes(note)
   }, [note]);
 
-  // useEffect(() => {
-  //   localStorage.setItem("noteData", JSON.stringify(note));
-  //   // console.log(notes);
-  //   setNotes(note)
-  // }, [note]);
-
   return (
     <>
       <div className="container  ">
