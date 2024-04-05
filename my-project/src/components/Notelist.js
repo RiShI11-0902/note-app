@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import AddNote from "./AddNote";
 import Note from "./Note";
 function Notelist({ notes, handleAddNote, handleDeleteNote, category }) {
-  const [selected, setSelected] = useState(true);
+  const [selected, setSelected] = useState(false);
 
   return (
     <>
@@ -15,7 +15,7 @@ function Notelist({ notes, handleAddNote, handleDeleteNote, category }) {
       <div className="md:flex md:flex-row md:space-x-10 md:justify-evenly">
         {selected ? <AddNote handleAddNote={handleAddNote} /> : " "}
 
-        <div className={`grid ${selected ? "2xl:grid-cols-2 md:grid-cols-1 2xl:w-[40rem]" : "md:grid-cols-4 w-full"}    mx-auto mt-20 2xl:grid-cols-4 xl:grid-cols-2 grid-cols-1 md:grid-cols-2 md:gap-1`}>
+        <div className={`grid ${selected ? "2xl:grid-cols-2 md:grid-cols-1 2xl:w-[40rem]" : "md:grid-cols-4 w-full"}    mx-auto mt-20   md:gap-1`}>
           {notes?.map((note) => {
             return (
               <div key={note.id}>
